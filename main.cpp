@@ -103,11 +103,11 @@ void renderScene1() {
     renderBitmapString(-0.22, 0.5, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "Siam Sarker");
     renderBitmapString(0.74, 0.5, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "20");
 
-    renderBitmapString(-0.84, 0.4, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "23-51359-1");
-    renderBitmapString(-0.22, 0.4, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "Nur Farhana Akhter");
+    renderBitmapString(-0.84, 0.4, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "22-47368-2");
+    renderBitmapString(-0.22, 0.4, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "Nur Farhana Akther");
     renderBitmapString(0.74, 0.4, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "20");
 
-    renderBitmapString(-0.84, 0.3, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "21-45677-3");
+    renderBitmapString(-0.84, 0.3, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "23-51359-1");
     renderBitmapString(-0.22, 0.3, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "MD ARIFIN MONDUL BABU");
     renderBitmapString(0.74, 0.3, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "20");
 
